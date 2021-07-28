@@ -19,7 +19,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "172.17.160.199.nip.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
